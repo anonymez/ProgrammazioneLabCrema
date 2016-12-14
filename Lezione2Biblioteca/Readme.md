@@ -1,8 +1,8 @@
-Sviluppare un progetto java per una biblioteca che permetta la gestione degli utenti e dei libri. Gli utenti (user) sono caratterizzati da un codice univoco, nome e cognome. I libri (book) sono caratterizzati da un codice univoco, anno, autore, titolo e genere. Il programma deve permettere la ricerca, cancellazione di libri e utenti e inoltre deve permettere agli utenti di prendere un libro per portarselo a casa per un numero definito di giorni e di poterlo poi riportare in biblioteca rendendo il libro di nuovo disponibile.
+Sviluppare un progetto java per una biblioteca che permetta la gestione degli utenti e dei libri. Gli utenti (user) sono caratterizzati da un codice univoco, nome e cognome. I libri (book) sono caratterizzati da un codice univoco, anno, autore, titolo e genere. Il programma deve permettere la registrazione, ricerca e cancellazione di libri e utenti. Inoltre, deve permettere agli utenti di prender in prestito un libro per un numero definito di giorni e di poter poi riportarlo in biblioteca rendendo il libro di nuovo disponibile.
 
 
 
-Come usare ArrayList
+#Come usare ArrayList#
 
 Un ArrayList è una lista di oggetti, attenzione non è esattamente un array perchè ogni volta che un elemento viene eliminato automaticamente avviene lo shift degli indici.
 
