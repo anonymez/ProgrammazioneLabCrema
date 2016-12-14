@@ -1,3 +1,6 @@
+#Progetto#
+
+
 Sviluppare un progetto java per una biblioteca che permetta la gestione degli utenti e dei libri. Gli utenti (user) sono caratterizzati da un codice univoco, nome e cognome. I libri (book) sono caratterizzati da un codice univoco, anno, autore, titolo e genere. Il programma deve permettere la registrazione, ricerca e cancellazione di libri e utenti. Inoltre, deve permettere agli utenti di prender in prestito un libro per un numero definito di giorni e di poter poi riportarlo in biblioteca rendendo il libro di nuovo disponibile.
 
 
