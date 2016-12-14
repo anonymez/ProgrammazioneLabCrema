@@ -10,23 +10,23 @@ ArrayList<E>, dove E è il tipo di oggetti contenuto dalla lista
 
 Dichiarazione variabile
 
-ArrayList<MyClass> myList; 
+    ArrayList<MyClass> myList; 
 
 !! attenzione stiamo dichiarando un puntatore a un array list che contiene oggetti di tipo MyClass
 
 Inizializzazione lista
 
-myList = new ArrayList<MyClass>();
+    myList = new ArrayList<MyClass>();
 
 aggiungere un elemento (in coda) alla lista
 
-MyClass myC = new MyClass();
-myList.add(myC);
+    MyClass myC = new MyClass();
+    myList.add(myC);
 
 leggere l'elemento i-esimo dalla lista
 
-MyClass myC = myList.get(i);
+    MyClass myC = myList.get(i);
 
 cancellare l'elemento i-esimo dalla lista
 
-myList.remove(i);
+    myList.remove(i);
