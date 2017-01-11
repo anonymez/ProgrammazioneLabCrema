@@ -1,0 +1,2 @@
+Filippo,Gaudenzi,4555,2121,1000,Banca di Paperopoli
+Zio, Paperone,4535,2121,100000,Banca Paperopoli
